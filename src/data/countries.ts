@@ -1,0 +1,60 @@
+import { CountryCode } from '../types';
+
+export const COUNTRIES: CountryCode[] = [
+  {
+    code: 'SA',
+    nameAr: 'المملكة العربية السعودية',
+    nameEn: 'Saudi Arabia',
+    dialCode: '+966',
+    flag: '🇸🇦',
+    placeholder: '5X XXX XXXX',
+  },
+  {
+    code: 'AE',
+    nameAr: 'الإمارات العربية المتحدة',
+    nameEn: 'United Arab Emirates',
+    dialCode: '+971',
+    flag: '🇦🇪',
+    placeholder: '5X XXX XXXX',
+  },
+  {
+    code: 'KW',
+    nameAr: 'الكويت',
+    nameEn: 'Kuwait',
+    dialCode: '+965',
+    flag: '🇰🇼',
+    placeholder: '5X XXX XXXX',
+  },
+  {
+    code: 'BH',
+    nameAr: 'البحرين',
+    nameEn: 'Bahrain',
+    dialCode: '+973',
+    flag: '🇧🇭',
+    placeholder: '3X XXX XXX',
+  },
+  {
+    code: 'QA',
+    nameAr: 'قطر',
+    nameEn: 'Qatar',
+    dialCode: '+974',
+    flag: '🇶🇦',
+    placeholder: '3X XXX XXX',
+  },
+  {
+    code: 'OM',
+    nameAr: 'عُمان',
+    nameEn: 'Oman',
+    dialCode: '+968',
+    flag: '🇴🇲',
+    placeholder: '9X XXX XXX',
+  },
+  {
+    code: 'EG',
+    nameAr: 'مصر',
+    nameEn: 'Egypt',
+    dialCode: '+20',
+    flag: '🇪🇬',
+    placeholder: '1X XXXX XXXX',
+  },
+];

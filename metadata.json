@@ -1,0 +1,6 @@
+{
+  "name": "أبنائي - تسجيل الدخول",
+  "description": "منصة التعلم الذكي - تعلّم يتكيّف مع طفلك ومتابعة تطمئنك أنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
